@@ -1,5 +1,10 @@
+# GNU GENERAL PUBLIC LICENSE
+# Version 3, 29 June 2007
+# Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+
 # If you start with an Excel spreadsheet of isolates then export it to a CSV file.
 # Change the variables below for the isolate file name and the column #s of the specific data in the CSV file.
+
 # Created by Eric King (edk@ericdavidking.com)
 
 import csv
